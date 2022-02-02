@@ -26,7 +26,7 @@ function AboutCard() {
               <ImPointRight /> Hacking and pen testing my server
             </li>
             <li className="about-activity">
-              <ImPointRight /> And playing the piano
+              <ImPointRight /> Game development with Unity and C#
             </li>
           </ul>
           
