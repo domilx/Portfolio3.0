@@ -8,6 +8,7 @@ import { CgGitFork } from "react-icons/cg";
 import {
   AiFillStar,
   AiOutlineHome,
+  AiFillFileText,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
@@ -77,6 +78,15 @@ function NavBar() {
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Projects
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                 href="https://editor.domidev.net"
+                 target="_blank"
+              >
+                <AiFillFileText style={{ marginBottom: "2px" }} /> Editor
               </Nav.Link>
             </Nav.Item>
 

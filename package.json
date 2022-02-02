@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.6.0",
     "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
+    "kofi-button": "^1.0.8",
     "kursor": "^0.1.6",
     "magicmouse.js": "^1.2.1",
     "react": "^17.0.1",
