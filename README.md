@@ -3,7 +3,7 @@
   <a href="http://domidev.net/" target="_blank">domidev.net</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="https://github.com/domilx/Portfolio3.0/blob/main/public/home.png?raw=true" />
+  <img alt="Demo" src="https://github.com/domilx/Portfolio3.0/blob/main/home.png?raw=true" />
 </div>
 
 <br/>
